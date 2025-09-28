@@ -1,0 +1,5 @@
+streamlit==1.50.0
+faster-whisper==1.2.0
+pandas==2.3.2
+py7zr==1.0.0
+

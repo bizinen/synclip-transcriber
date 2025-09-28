@@ -1,0 +1,14 @@
+__pycache__
+*.py[cod]
+*.log
+.streamlit/
+.venv/
+venv/
+env/
+.git
+.gitignore
+*.mp4
+*.wav
+*.zip
+*.7z
+
